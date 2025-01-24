@@ -4,10 +4,10 @@ abstract class BaseModel{
     public static $db;
 
     //local
-    protected $host="rvscsdevelop-db.cfbckbnxiox7.ap-southeast-1.rds.amazonaws.com";
+    protected $host="localhost";
     protected $db_name="farm_base_db";
-    protected $username="admin";
-    protected $password="ezVrr6ia56frWz9dCUSR";
+    protected $username="root";
+	protected $password="QAZwsxEDC1@#$";
     
 
     function __construct() {
