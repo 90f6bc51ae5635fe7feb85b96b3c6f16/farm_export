@@ -1,0 +1,6 @@
+App:
+   Registry: registry.rvvcs.com
+   AppName: sut-farm-export
+   Branch: image-deploy
+   AppVersion: v1.01
+   AppPath: /usr/share/nginx/html/farm_export
