@@ -32,8 +32,9 @@ pipeline {
         //             ls
 
         //             cd ${APP_PATH}
-
         //             git pull 
+        //             ghp_mykHrMVtHSI8Nu8eDuNQL7FQjErOnO0cxcM
+        //             ghp_mykHrMVtHSI8Nu8eDuNQL7FQjErOnO0cxcM
         //             "
         //             """
         //         }
